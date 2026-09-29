@@ -1,0 +1,9 @@
+{
+  "name":"Registro de cigarros y picos",
+  "short_name":"Registro",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f4f4",
+  "theme_color":"#111111",
+  "lang":"es-ES"
+}
